@@ -1,0 +1,17 @@
+name: arthisto1960
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyter
+  - tensorflow-deps
+  - gdal
+  - rasterio
+  - pandas
+  - geopandas  
+  - scipy
+  - scikit-image
+  - matplotlib
+  - pydot
+  
+prefix: /Users/clementgorin/miniforge3/envs/arthisto1960
